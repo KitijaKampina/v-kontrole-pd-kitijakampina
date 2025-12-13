@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Reti kas dzīvē ir svarīgāks par versiju kontroli
+=======
+Dzīve nekādā veidā nav iedomājama bez git
+>>>>>>> netestētās-izmaiņas-v1

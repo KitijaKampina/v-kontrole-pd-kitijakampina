@@ -1,0 +1,5 @@
+Kas ir Git?
+Git ir versiju kontroles sistēma, kas ļauj saglabāt izmaiņu vēsturi.
+
+Kāpēc versiju kontrole ir svarīga?
+Tā ļauj strādāt komandā, izvairīties no kļūdām un atjaunot iepriekšējās versijas.
