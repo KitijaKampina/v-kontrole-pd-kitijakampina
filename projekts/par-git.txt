@@ -1,0 +1,8 @@
+1. Kas ir versiju kontrole?
+
+	Versiju kontrole ir sistēma, kas ļauj sekot līdzi izmaiņām, kas veiktas kodā vai failos, atgriezt iepriekšējās versijas un salīdzināt izmaiņas starp versijām. Tā palīdz efektīvi strādāt pie projekta komandā, nepārrakstot viens otra darbu.
+
+
+2. Ar ko atšķiras git no github?
+
+	Git ir versiju kontroles sistēma, kas darbojas lokāli tavā datorā un seko līdzi izmaiņām failos. Github ir platforma internetā, kas izmanto git. Tas ļauj glabāt un koplietot Git projektus. Git var lietot arī bez githuba, bet githubu nevar izmantot bez git.

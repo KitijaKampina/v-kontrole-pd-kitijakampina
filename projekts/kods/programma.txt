@@ -1,0 +1,12 @@
+#include <iostream>
+using namespace std;
+int main()
+{
+    string s="Kad skolēni sabojā git projektu: Nu ko… laiks jaunam klonam.";
+    int cnt=0;
+    for(int i=0; i<s.size(); i++)
+        if(s[i]=='a')
+            cnt++;
+    cout << cnt << endl;
+    return 0;
+}
