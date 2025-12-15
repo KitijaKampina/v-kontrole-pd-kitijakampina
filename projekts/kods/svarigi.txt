@@ -1,1 +1,11 @@
+<<<<<<< HEAD
 Reti kas dzīvē ir svarīgāks par git
+=======
+#include <iostream>
+using namespace std;
+int main()
+{
+    cout << "Dzīve nekādā veidā nav iedomājama bez git" << endl;
+    return 0;
+}
+>>>>>>> netestētās-izmaiņas-v1
